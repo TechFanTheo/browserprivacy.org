@@ -1,0 +1,1 @@
+For now this is manual results using  https://privacytests.org/me.html . using  Linux, I couldn't suceed running the tests. Not knowing Javascript doesn't help. Plus Arthur code has compatibility issues with Linux as it is designed for Mac. For a very rough to read overview of the challenges I faced you can read https://monograph.notesnook.com/65b20432aeaeae1c343e3e40.
