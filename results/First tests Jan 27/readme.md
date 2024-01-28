@@ -1,4 +1,5 @@
 For now this is manual results using  https://privacytests.org/me.html. It isn't yet regrouped and is per browser only with some categories missing. using  Linux, I couldn't suceed running the tests. Not knowing Javascript doesn't help. Plus Arthur code has compatibility issues with Linux as it is designed for Mac. For a very rough to read overview of the challenges I faced you can read https://monograph.notesnook.com/65b20432aeaeae1c343e3e40.
+The tests are run on Linux Ubuntu 23.10
 
 Below is rules for hardening
 (Most sites should work. JS on for secure sites)
