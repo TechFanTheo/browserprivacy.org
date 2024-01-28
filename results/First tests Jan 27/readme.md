@@ -18,3 +18,5 @@ Enable Safe Mode as JS must stay on. Didn't enable Malware protection as it can 
 
 Brave :
 Followed PrivacyGuides Hardening. Interrestingly I had to refresh the test page twice when running on hardened brave.If I didn't the test was just stuck.
+
+Firefox : followed Privacy Guide. Plus Duckduckgo as search engine.
