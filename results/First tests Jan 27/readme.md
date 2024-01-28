@@ -11,10 +11,10 @@ Select Tracker and Ads blocking on start-up. Block Third-Parties cookies. Form-A
 *Edit: Put Cookies on session-only. For sites you want to log into, you can allow them to save data on device by clicking on the lock icon and then cookies and then manage site data. Click on the dot and allow save data.
 Put Startpage to vivaldi://startpage instead of vivaldi.com. Did not disable hyperlink audit blocking as only Firefox-based do it and is very niche.
 
-Mullvad browser :
+Mullvad browser : Hardened is Safe Mode. Didn't modify uBlock and NoScript settings (those are the two default extensions). In second edition, WebRTC will be disabled, as it can leak IP on video calls due to Mozilla bug. See https://gitlab.torproject.org/tpo/applications/mullvad-browser/-/issues/151
 
 Tor Browser :
 Enable Safe Mode as JS must stay on. Didn't enable Malware protection as it can make you more fingerprintable. See https://tor.stackexchange.com/questions/22024/how-does-tor-browser-protect-against-fraudulent-pages. 
 
 Brave :
-Followed PrivacyGuides Hardening. Interrestingl I had to refresh the test page twice when running on hardened brave.If I didn't the test was just stuck.
+Followed PrivacyGuides Hardening. Interrestingly I had to refresh the test page twice when running on hardened brave.If I didn't the test was just stuck.
