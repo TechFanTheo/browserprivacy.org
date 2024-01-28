@@ -9,8 +9,12 @@ Has a "Privacy Review" journey to quickly review privacy settings. However when 
 vivaldi:
 Select Tracker and Ads blocking on start-up. Block Third-Parties cookies. Form-Autofill Assist disabled and other auto-fill also disabled.Disable Hangouts (for Google Meet) extension. Disabled IP broadcast for WebRTC.Unfortunately, Vivaldi has some very specific fonts. This might be fetched from system. Enables FP. (might investigate in future). Disable Feeds recognition. Disable DirectMatch (affiliation links related).Disable passwod saving at vivaldi://password-manager/settings. For Cookies, SessionOnly means it will clear them after logout, so you can't stay logged in. Since there isn't a per-site exception keep cookies on*. Vivaldi very good visualisation of cookies dat so you can delete those of untrutsed sites.Manually remove homescreen sponsored links. Change search engine to DuckDuckGo. Let Do Not Track be disabled. DNT isn't used by most so this make you stand-out and many websites don't answer it. Not sure about this one but put date and time format to follow the language.Enable Always Use Secure Connection. Disable widevine, although it doesnt seem to even disable it lol.
 *Edit: Put Cookies on session-only. For sites you want to log into, you can allow them to save data on device by clicking on the lock icon and then cookies and then manage site data. Click on the dot and allow save data.
+Put Startpage to vivaldi://startpage instead of vivaldi.com. Did not disable hyperlink audit blocking as only Firefox-based do it and is very niche.
 
 Mullvad browser :
 
 Tor Browser :
 Enable Safe Mode as JS must stay on. Didn't enable Malware protection as it can make you more fingerprintable. See https://tor.stackexchange.com/questions/22024/how-does-tor-browser-protect-against-fraudulent-pages. 
+
+Brave :
+Followed PrivacyGuides Hardening. Interrestingl I had to refresh the test page twice when running on hardened brave.If I didn't the test was just stuck.
